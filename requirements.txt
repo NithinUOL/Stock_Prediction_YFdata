@@ -3,13 +3,4 @@ pandas
 yfinance
 yahoo_fin
 numpy
-wikipediaapi
-plotly
-matplotlib
-plotly
-scipy
-TA-lib
-pandas_market_calendars
-datetime
-pmdarima
-xgboost
+wikipedia-api
