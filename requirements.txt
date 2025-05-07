@@ -4,6 +4,5 @@ numpy==1.26.4
 matplotlib==3.8.4
 seaborn==0.13.2
 scikit-learn==1.4.2
-keras==2.15.0
-tensorflow==2.15.0
-plotly==5.21.0
+keras==2.16.1
+tensorflow==2.16.1
