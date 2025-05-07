@@ -10,3 +10,4 @@ wikipedia-api
 requests-html
 beautifulsoup4
 lxml
+pandas_market_calenders
