@@ -1,6 +1,7 @@
 streamlit
 pandas
 yfinance
+plotly
 yahoo_fin
 numpy
 matplotlib
