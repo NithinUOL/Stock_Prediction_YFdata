@@ -8,7 +8,7 @@ plotly
 matplotlib
 plotly
 scipy
-TA-lib (https://medium.com/@mkstz/install-ta-lib-without-homebrew-61f57a63c06d) #how to install it
+TA-lib
 pandas_market_calendars
 datetime
 pmdarima
